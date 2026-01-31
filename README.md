@@ -1,6 +1,10 @@
 # Super_Store
 
-🛒 Super Store Sales Analysis Dashboard (Power BI)
+<img width="194" height="260" alt="image" src="https://github.com/user-attachments/assets/2c0e4ff9-ba61-4851-81ef-2f957183a7af" />
+
+
+
+## 🛒 Super Store Sales Analysis Dashboard (Power BI)
 1. Project Title / Headline
 
 Super Store Sales Analysis & Business Intelligence Dashboard
